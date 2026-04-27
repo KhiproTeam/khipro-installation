@@ -126,7 +126,7 @@ NMS Kontho -তে ক্ষিপ্র কয়েক ভার্শন পি�
 
 ## Borno Android
 
-বর্ণ অ্যান্ড্রয়েডে ক্ষিপ্র লেআউট যুক্ত করা হয়েছে।\
+বর্ণ অ্যান্ড্রয়েডে ক্ষিপ্র লেআউট যুক্ত করা হয়েছে। তবে নিচের সতর্কবার্তা পড়ুন। \
 [বর্ণ অ্যান্ড্রয়েডের গুগল প্লে স্টোর লিংক](https://play.google.com/store/apps/details?id=com.codepotro.borno.keyboard&pcampaignid=web_share)
 
 > [!CAUTION]
