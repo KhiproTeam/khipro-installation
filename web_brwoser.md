@@ -1,3 +1,10 @@
+---
+title: "ওয়েব ব্রাউজারে"
+description: "ব্রাউজার থেকে ক্ষিপ্র লেআউট টেস্ট করা।"
+slug: "web-browser"
+weight: 15
+---
+
 # ওয়েব ব্রাউজারে
 
 ক্ষিপ্র লেআউট ওয়েব ব্রাউজারে টেস্ট করা যায়। লিংক: https://khiproteam.github.io/khipro/quickstart/#libh-tipn-dm
