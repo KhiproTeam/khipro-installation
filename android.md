@@ -23,7 +23,7 @@ weight: 25
 
 
 > [!IMPORTANT]  
-১. ক্ষিপ্র-র টাচস্ক্রিনে অ্যাডাপ্টেশন গাইডলাইন মোতাবেক হেলিবোর্ডে ক্ষিপ্র লেআউট যুক্ত করা হয়েছে। [গাইডলাইনটি দেখতে এখানে ক্লিক করুন](https://khipro.khiproteam.pro.bd/documentation/#tchshkrn-ojdptshnr-jnj-shjshn)।
+ক্ষিপ্র-র টাচস্ক্রিনে অ্যাডাপ্টেশন গাইডলাইন মোতাবেক হেলিবোর্ডে ক্ষিপ্র লেআউট যুক্ত করা হয়েছে। [গাইডলাইনটি দেখতে এখানে ক্লিক করুন](https://khipro.khiproteam.pro.bd/documentation/#tchshkrn-ojdptshnr-jnj-shjshn)।
 
 ## Borno Android
 
