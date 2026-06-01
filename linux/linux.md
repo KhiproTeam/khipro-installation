@@ -1,6 +1,7 @@
 ---
 title: "লিনাক্স সিস্টেমে"
 description: "লিনাক্সে khipro-m17n (ibus-m17n / fcitx5-m17n), ইনস্টলার, আপডেট ও আনইনস্টল।"
+url: "/installation/linux/"
 weight: 10
 ---
 

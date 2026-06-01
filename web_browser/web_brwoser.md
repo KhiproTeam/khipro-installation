@@ -1,6 +1,7 @@
 ---
 title: "ওয়েব ব্রাউজারে"
 description: "ব্রাউজার থেকে ক্ষিপ্র লেআউট টেস্ট করা।"
+url: "/installation/web-browser/"
 slug: "web-browser"
 weight: 15
 ---

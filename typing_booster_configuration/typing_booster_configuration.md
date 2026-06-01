@@ -1,6 +1,7 @@
 ---
 title: "টাইপিং বুস্টার কনফিগার করা"
 description: "ibus-typing-booster এর সাথে ক্ষিপ্র ব্যবহারের ডিকশনারি, কিবাইন্ডিং ও UI সেটিংস।"
+url: "/installation/typing_booster_configuration/"
 weight: 30
 ---
 
